@@ -44,7 +44,7 @@ export default function WeatherTable() {
         <div>
             <h1 id="tabelLabel">Weather Forecast</h1>
             <p>This component demonstrates fetching data from the Azure server.</p>
-            <p> pee pee poopy doo doo</p>
+            <p> This is an app for deploying to azure</p>
             {contents}
         </div>
     );
